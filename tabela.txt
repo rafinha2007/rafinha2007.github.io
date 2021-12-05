@@ -1,0 +1,383 @@
+<table class="wikitable" style="font-size:100%; text-align: center; width=100%">
+<tbody><tr>
+<th rowspan="2" width="10%">Clube
+</th>
+<th rowspan="2" width="7%">Temporada
+</th>
+<th colspan="3" width="10%">Campeonato<br>nacional
+</th>
+<th colspan="3" width="10%">Copa<br>nacional<sup class="reference" id="ref_Anone"><a href="#endnote_Anone">[a]</a></sup>
+</th>
+<th colspan="3" width="10%">Competições<br>continentais<sup class="reference" id="ref_Bnone"><a href="#endnote_Bnone">[b]</a></sup>
+</th>
+<th colspan="3" width="10%">Outros<br>torneios<sup class="reference" id="ref_Cnone"><a href="#endnote_Cnone">[c]</a></sup>
+</th>
+<th colspan="3" width="10%">Total
+</th></tr>
+<tr>
+<th>Jogos
+</th>
+<th>Gols
+</th>
+<th><span style="cursor: help; border-bottom: 1px dotted;" title="Assistências">Assist.</span>
+</th>
+<th>Jogos
+</th>
+<th>Gols
+</th>
+<th><span style="cursor: help; border-bottom: 1px dotted;" title="Assistências">Assist.</span>
+</th>
+<th>Jogos
+</th>
+<th>Gols
+</th>
+<th><span style="cursor: help; border-bottom: 1px dotted;" title="Assistências">Assist.</span>
+</th>
+<th>Jogos
+</th>
+<th>Gols
+</th>
+<th><span style="cursor: help; border-bottom: 1px dotted;" title="Assistências">Assist.</span>
+</th>
+<th>Jogos
+</th>
+<th>Gols
+</th>
+<th><span style="cursor: help; border-bottom: 1px dotted;" title="Assistências">Assist.</span>
+</th></tr>
+<tr>
+<td rowspan="4" align="center" valign="center"><b><a href="/wiki/Botafogo_de_Futebol_e_Regatas" title="Botafogo de Futebol e Regatas">Botafogo</a></b>
+</td>
+<td>2011</td>
+<td colspan="3">—</td>
+<td colspan="3">—</td>
+<td colspan="3">—</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>0
+</td></tr>
+<tr>
+<td>2012</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="3">—</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>0
+</td></tr>
+<tr>
+<td>2013</td>
+<td>16</td>
+<td>4</td>
+<td>3</td>
+<td>7</td>
+<td>1</td>
+<td>0</td>
+<td colspan="3">—</td>
+<td>15</td>
+<td>5</td>
+<td>2</td>
+<td>38</td>
+<td>10</td>
+<td>5
+</td></tr>
+<tr>
+<th>Total</th>
+<th>16</th>
+<th>4</th>
+<th>3</th>
+<th>8</th>
+<th>1</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>17</th>
+<th>6</th>
+<th>2</th>
+<th>41</th>
+<th>11</th>
+<th>5
+</th></tr>
+<tr>
+<td rowspan="6" align="center" valign="center"><b><a href="/wiki/CSKA_de_Moscovo" title="CSKA de Moscovo">CSKA Moscou</a></b>
+</td>
+<td>2013–14</td>
+<td>10</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="3">—</td>
+<td>18</td>
+<td>0</td>
+<td>0
+</td></tr>
+<tr>
+<td>2014–15</td>
+<td>5</td>
+<td>1</td>
+<td>0</td>
+<td colspan="3">—</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>6</td>
+<td>1</td>
+<td>0
+</td></tr>
+<tr>
+<td>2016–17</td>
+<td>13</td>
+<td>6</td>
+<td>6</td>
+<td colspan="3">—</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>13</td>
+<td>6</td>
+<td>6
+</td></tr>
+<tr>
+<td>2017–18</td>
+<td>30</td>
+<td>10</td>
+<td>6</td>
+<td colspan="3">—</td>
+<td>16</td>
+<td>2</td>
+<td>3</td>
+<td colspan="3">—</td>
+<td>46</td>
+<td>12</td>
+<td>9
+</td></tr>
+<tr>
+<td>2018–19</td>
+<td colspan="3">—</td>
+<td colspan="3">—</td>
+<td colspan="3">—</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0
+</td></tr>
+<tr>
+<th>Total</th>
+<th>58</th>
+<th>17</th>
+<th>12</th>
+<th>3</th>
+<th>0</th>
+<th>0</th>
+<th>21</th>
+<th>2</th>
+<th>3</th>
+<th>2</th>
+<th>0</th>
+<th>0</th>
+<th>84</th>
+<th>19</th>
+<th>15
+</th></tr>
+<tr>
+<td rowspan="3" align="center" valign="center"><b><a href="/wiki/Sport_Club_Internacional" title="Sport Club Internacional">Internacional</a></b>
+</td>
+<td>2015</td>
+<td>33</td>
+<td>11</td>
+<td>2</td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+<td>4</td>
+<td>1</td>
+<td>0</td>
+<td>9</td>
+<td>2</td>
+<td>0</td>
+<td>49</td>
+<td>15</td>
+<td>4
+</td></tr>
+<tr>
+<td>2016</td>
+<td>27</td>
+<td>8</td>
+<td>4</td>
+<td>3</td>
+<td>0</td>
+<td>1</td>
+<td colspan="3">—</td>
+<td>19</td>
+<td>6</td>
+<td>4</td>
+<td>49</td>
+<td>14</td>
+<td>9
+</td></tr>
+<tr>
+<th>Total</th>
+<th>60</th>
+<th>19</th>
+<th>6</th>
+<th>6</th>
+<th>1</th>
+<th>3</th>
+<th>4</th>
+<th>1</th>
+<th>0</th>
+<th>28</th>
+<th>8</th>
+<th>4</th>
+<th>98</th>
+<th>29</th>
+<th>13
+</th></tr>
+<tr>
+<td rowspan="5" align="center" valign="center"><b><a href="/wiki/Clube_de_Regatas_do_Flamengo" title="Clube de Regatas do Flamengo">Flamengo</a></b>
+</td>
+<td>2018</td>
+<td>22</td>
+<td>3</td>
+<td>5</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="3">—</td>
+<td>28</td>
+<td>3</td>
+<td>5
+</td></tr>
+<tr>
+<td>2019</td>
+<td>25</td>
+<td>5</td>
+<td>3</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td>8</td>
+<td>1</td>
+<td>0</td>
+<td>15</td>
+<td>3</td>
+<td>1</td>
+<td>52</td>
+<td>9</td>
+<td>4
+</td></tr>
+<tr>
+<td>2020</td>
+<td>29</td>
+<td>2</td>
+<td>3</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td>7</td>
+<td>0</td>
+<td>1</td>
+<td>10</td>
+<td>1</td>
+<td>0</td>
+<td>49</td>
+<td>3</td>
+<td>5
+</td></tr>
+<tr>
+<td>2021</td>
+<td>29</td>
+<td>4</td>
+<td>8</td>
+<td>8</td>
+<td>2</td>
+<td>4</td>
+<td>11</td>
+<td>3</td>
+<td>2</td>
+<td>13</td>
+<td>5</td>
+<td>1</td>
+<td>61</td>
+<td>14</td>
+<td>15
+</td></tr>
+<tr>
+<th>Total</th>
+<th>105</th>
+<th>14</th>
+<th>19</th>
+<th>19</th>
+<th>2</th>
+<th>4</th>
+<th>29</th>
+<th>4</th>
+<th>3</th>
+<th>38</th>
+<th>10</th>
+<th>2</th>
+<th>190</th>
+<th>29</th>
+<th>29
+</th></tr>
+<tr>
+<th colspan="2" style="background: #DCDCDC">Total na carreira
+</th>
+<th style="background: #DCDCDC">239
+</th>
+<th style="background: #DCDCDC">54
+</th>
+<th style="background: #DCDCDC">44
+</th>
+<th style="background: #DCDCDC">36
+</th>
+<th style="background: #DCDCDC">4
+</th>
+<th style="background: #DCDCDC">7
+</th>
+<th style="background: #DCDCDC">54
+</th>
+<th style="background: #DCDCDC">7
+</th>
+<th style="background: #DCDCDC">3
+</th>
+<th style="background: #DCDCDC">84
+</th>
+<th style="background: #DCDCDC">23
+</th>
+<th style="background: #DCDCDC">8
+</th>
+<th style="background: #DCDCDC">413
+</th>
+<th style="background: #DCDCDC">88
+</th>
+<th style="background: #DCDCDC">62
+</th></tr></tbody></table>
+     
